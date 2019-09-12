@@ -8,7 +8,7 @@ public class main {
         String path = "d:\\file.txt";
 
         Test test = new Test();
-        test.setName("Test");
+        test.setName("MyAnnotation");
         test.setYear(2019);
         test.setDay("monday");
 

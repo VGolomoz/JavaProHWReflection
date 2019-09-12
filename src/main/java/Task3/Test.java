@@ -49,7 +49,7 @@ public class Test {
 
     @Override
     public String toString() {
-        return "Test{" +
+        return "MyAnnotation{" +
                 "name='" + name + '\'' +
                 ", year=" + year +
                 ", day='" + day + '\'' +
